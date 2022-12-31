@@ -48,4 +48,6 @@
 </p> -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafizurrahaman&show_icons=true&locale=en&layout=compact" alt="mostafizurrahaman" />
 </p>
+<br/>
+<br/>
 <p>&nbsp;<img align="center" style="margin-top: 20px" src="https://github-readme-stats.vercel.app/api?username=mostafizurrahaman&show_icons=true&locale=en" alt="mostafizurrahaman" /></p>
