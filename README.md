@@ -10,21 +10,26 @@
 
 ## :eyes: Current overview
 
-### 
-### 🌱 I’m exploring - Redux, TypeScript , Next Js, React Native. 
-### 👯 I’m looking - To collaborate on open source projects. 
-### 🤔 I’m trying - To help people learn web development. 
+###
+
+### 🌱 I’m exploring - Redux, TypeScript , Next Js, React Native.
+
+### 👯 I’m looking - To collaborate on open source projects.
+
+### 🤔 I’m trying - To help people learn web development.
+
 ### ⚡ Fun fact - I love to do something unique .
+
 ### 👨‍💻 My Portfolio [https://mostafizur-rahaman-fahim.netlify.app/](https://mostafizur-rahaman-fahim.netlify.app/)
 
 ### 📝 My Articles [https://mostafizur-rahaman-fahim.netlify.app/blog](https://mostafizur-rahaman-fahim.netlify.app/blog)
 
 ### 💬 Ask me about **react , javaScript, Express JS,Node Js**
 
-
 <br />
 
 ## :computer: Technologies that I know
+
 <br>
 <p align="center">
 <img src="https://github.com/mostafizurRahaman/mostafizurRahaman/blob/main/images/icons/HTML.png"/>
@@ -37,9 +42,6 @@
 <img src="https://github.com/mostafizurRahaman/mostafizurRahaman/blob/main/images/icons/express.png"/>
 </p><br/>
 
-
-
-
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
@@ -48,6 +50,13 @@
 </p> -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafizurrahaman&show_icons=true&locale=en&layout=compact" alt="mostafizurrahaman" />
 </p>
+
 <br/>
 <br/>
-<p>&nbsp;<img align="center" style="margin-top: 20px" src="https://github-readme-stats.vercel.app/api?username=mostafizurrahaman&show_icons=true&locale=en" alt="mostafizurrahaman" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafizurrahaman&show_icons=true&locale=en" alt="mostafizurrahaman" /></p>
+
+<br/>
+<br/>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafizurrahaman&" alt="mostafizurrahaman" /></p>
