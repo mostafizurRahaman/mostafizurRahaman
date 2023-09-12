@@ -52,5 +52,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafizurrahaman&show_icons=true&locale=en" alt="mostafizurrahaman" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafizurrahaman&" alt="mostafizurrahaman" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafizurrahaman&" alt="mostafizurrahaman" /></p> -->
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mostafizurRahaman&theme=dark)](https://git.io/streak-stats)
