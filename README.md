@@ -54,4 +54,4 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafizurrahaman&" alt="mostafizurrahaman" /></p> -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mostafizurRahaman&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mostafizurRahaman&theme=dark&card_width=450)](https://git.io/streak-stats)
