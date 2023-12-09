@@ -12,19 +12,19 @@
 
 ###
 
-### 🌱 I’m exploring - Redux, TypeScript , Next Js, React Native.
+### 🌱 I’m exploring - Redux, SQL, React Native.
 
-### 👯 I’m looking - To collaborate on open source projects.
+### 👯 I’m looking - To collaborate on open-source projects.
 
 ### 🤔 I’m trying - To help people learn web development.
 
-### ⚡ Fun fact - I love to do something unique .
+### ⚡ Fun fact - I love to do something unique.
 
 ### 👨‍💻 My Portfolio [https://mostafizur-rahaman-fahim.netlify.app/](https://mostafizur-rahaman-fahim.netlify.app/)
 
 ### 📝 My Articles [https://mostafizur-rahaman-fahim.netlify.app/blog](https://mostafizur-rahaman-fahim.netlify.app/blog)
 
-### 💬 Ask me about **react , javaScript, Express JS,Node Js**
+### 💬 Ask me about **React, JavaScript, Express JS, Node Js, TypeScript, Next JS, MongoDB, Mongoose**
 
 <br />
 
