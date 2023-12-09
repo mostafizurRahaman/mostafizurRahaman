@@ -50,7 +50,7 @@
 </p> -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafizurrahaman&show_icons=true&locale=en&layout=compact" alt="mostafizurrahaman" /></p>
 
-[![Mostafizur Rahaman ](https://streak-stats.demolab.com?user=mostafizurRahaman&theme=dracula&mode=weekly)](https://git.io/streak-stats)
+[![Mostafizur Rahaman ](https://streak-stats.demolab.com?user=mostafizurRahaman&theme=dracula)](https://git.io/streak-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafizurrahaman&show_icons=true&locale=en" alt="mostafizurrahaman" /></p>
 
